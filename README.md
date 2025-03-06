@@ -2,7 +2,7 @@
 
 
 Minecraft projects:
-[Craftlin Modpack](https://github.com/Derek1256/Craftlin) - My latest MC Modpack, Based on technoloy with the goal being to 100% the Quests. (ITS A WIP)
+* [Craftlin Modpack](https://github.com/Derek1256/Craftlin) - My latest MC Modpack, Based on technoloy with the goal being to 100% the Quests. (ITS A WIP)
 
-Other Projects
-[AstralM - A FiveM Server](https://git.starmc.net/StarMC/AstralM)
+Other Projects:
+* [AstralM - A FiveM Server](https://git.starmc.net/StarMC/AstralM)
