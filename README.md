@@ -1,4 +1,4 @@
-# My projects:
+# <p align="center">My Projects</p>
 
 
 Minecraft projects:
