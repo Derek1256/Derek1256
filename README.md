@@ -1,4 +1,4 @@
-# <p align="center">My Projects</p>
+<p align="center"><img src="/Untitled.png" alt="Image didnt load :( | My Projects"></p>
 
 
 Minecraft projects:
